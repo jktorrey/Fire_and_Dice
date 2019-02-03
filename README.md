@@ -6,4 +6,4 @@ A dice rolling simulator that takes the user's input for number of dice and numb
 
 >You rolled [2, 17, 4, 14] and your total is 37.
 
-Users must enter a value in a format of #D#, ##d##, or a combination of the two. Any other entered value will result in a "Please try again" message.
+Users must enter a value in a format of #D#, ##d##, or a combination of the two with positive integers. Any other entered value will result in a "Please try again" message.
